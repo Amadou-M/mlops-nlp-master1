@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/models/m-e67759d8618547399d0a993ebdd86f37/artifacts
+creation_timestamp: 1773650451521
+experiment_id: '279978506721138811'
+last_updated_timestamp: 1773650458738
+model_id: m-e67759d8618547399d0a993ebdd86f37
+model_type: null
+name: model
+source_run_id: a6a03b3670594a65b89dea652c10a027
+status: 2
+status_message: null

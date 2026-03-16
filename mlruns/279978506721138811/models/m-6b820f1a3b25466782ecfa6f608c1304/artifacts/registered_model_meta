@@ -1,0 +1,2 @@
+model_name: iris-classifier-production
+model_version: '1'

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/b37b22a0492b4a04be1b4b3c9272ef3c/artifacts
+end_time: 1773650442753
+entry_point_name: ''
+experiment_id: '279978506721138811'
+lifecycle_stage: active
+run_id: b37b22a0492b4a04be1b4b3c9272ef3c
+run_name: RandomForest_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773650427863
+status: 3
+tags: []
+user_id: Amadou MAIGA

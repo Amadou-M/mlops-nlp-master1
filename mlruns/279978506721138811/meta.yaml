@@ -1,0 +1,7 @@
+artifact_location: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811
+creation_time: 1773650427423
+experiment_id: '279978506721138811'
+last_update_time: 1773650427423
+lifecycle_stage: active
+name: iris_classification_tp1
+workspace: default

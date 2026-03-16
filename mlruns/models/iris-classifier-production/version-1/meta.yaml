@@ -1,0 +1,16 @@
+creation_timestamp: 1773650490868
+current_stage: Production
+deployment_job_state: null
+description: 'Meilleur modèle du TP 1.1 - F1: 0.9666 - Run: GradientBoosting_v1'
+last_updated_timestamp: 1773650528902
+model_id: m-6b820f1a3b25466782ecfa6f608c1304
+name: iris-classifier-production
+run_id: 8cb3a162d594424ab43b1d35a61c8f9c
+run_link: null
+source: models:/m-6b820f1a3b25466782ecfa6f608c1304
+status: READY
+status_message: null
+storage_location: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/models/m-6b820f1a3b25466782ecfa6f608c1304/artifacts
+user_id: null
+version: 1
+workspace: default

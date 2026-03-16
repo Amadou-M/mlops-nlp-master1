@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/8cb3a162d594424ab43b1d35a61c8f9c/artifacts
+end_time: 1773650451299
+entry_point_name: ''
+experiment_id: '279978506721138811'
+lifecycle_stage: active
+run_id: 8cb3a162d594424ab43b1d35a61c8f9c
+run_name: GradientBoosting_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773650442761
+status: 3
+tags: []
+user_id: Amadou MAIGA

@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/models/m-b940551031d54c3e87c60a9e0eb1bc47/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-b940551031d54c3e87c60a9e0eb1bc47
+model_size_bytes: 150951
+model_uuid: m-b940551031d54c3e87c60a9e0eb1bc47
+prompts: null
+run_id: b37b22a0492b4a04be1b4b3c9272ef3c
+utc_time_created: '2026-03-16 08:40:28.691969'

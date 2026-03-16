@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Amadou MAIGA/Desktop/TPM1MLOPS/mlruns/279978506721138811/a6a03b3670594a65b89dea652c10a027/artifacts
+end_time: 1773650458763
+entry_point_name: ''
+experiment_id: '279978506721138811'
+lifecycle_stage: active
+run_id: a6a03b3670594a65b89dea652c10a027
+run_name: SVM_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773650451307
+status: 3
+tags: []
+user_id: Amadou MAIGA
